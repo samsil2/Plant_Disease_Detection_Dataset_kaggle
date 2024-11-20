@@ -44,12 +44,12 @@ pip install -r requirements.txt
    cd Plant_Disease_Detection_Dataset_kaggle
    ```
 2. Download the Dataset
-Ensure you have downloaded the dataset from Kaggle and placed it in the dataset/ directory, structured as mentioned above. or Plant_Disease_Detection_Dataset_kaggle directory dataset and test directory are included.
+Ensure you have downloaded the dataset from Kaggle and placed it in the dataset/ directory, structured as mentioned above or Plant_Disease_Detection_Dataset_kaggle directory dataset and test directory are included.
 
 3. Open the Jupyter Notebook
 Start Jupyter Notebook and open the notebook file for this project:
 ```bash
-jupyter notebook train and validation.ipynb
+train and validation.ipynb
 prediction.ipynb
 
 ```
@@ -61,6 +61,16 @@ Follow the steps in the notebook:
 - Train the plant disease detection model.
 - Evaluate the model.
 - Visualize predictions.
+
+📊 Results
+The model achieves the following performance on the dataset: <br>
+<img src="https://raw.githubusercontent.com/samsil2/Plant_Disease_Detection_Dataset_kaggle/master/accuracy.png" width="700" height="500">
+
+🤝 Acknowledgements <br>
+- Dataset provided by Kaggle. <br>
+- This version is tailored for Jupyter Notebook users and provides clear guidance for working with the project.
+
+
 
 
 
