@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d73a3e7-fb69-431a-948e-e7ce96e0cd26" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/train and validation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/train and validation.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="3d73a3e7-fb69-431a-948e-e7ce96e0cd26" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +54,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732068042683</updated>
-      <workItem from="1732068043740" duration="1384000" />
+      <workItem from="1732068043740" duration="1908000" />
     </task>
     <servers />
   </component>
